@@ -1,2 +1,2 @@
 # LandingPage-LOL
- Landing page do league of legends
+ Landing page responsiva do league of legends
