@@ -2,6 +2,8 @@
  Landing page responsiva do League of Legends usando apenas:
  - HTML
  - CSS
+ 
+ Link do projeto: https://luccasmarinho.github.io/LandingPage-Responsiva/
 
  Visualização do projeto final: 
  
